@@ -4,6 +4,9 @@ body{
 	background-size: cover;
 
 }
+html{
+	height:100%;
+}
 
 .reply-text{
 	margin-bottom: 1.5px;
